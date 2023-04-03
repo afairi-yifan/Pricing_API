@@ -24,3 +24,4 @@ Online prediction to perform synchronous, low-latency response from our Vertax A
 Reference and work on the local model in this [notebook](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/community/vertex_endpoints/find_ideal_machine_type/find_ideal_machine_type.ipynb)
 
 
+### Why?”; “What?”; “How?
