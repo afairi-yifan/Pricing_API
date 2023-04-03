@@ -33,3 +33,14 @@ mlops: ML [pipeline ins Vertex AI](https://cloud.google.com/vertex-ai/docs/pipel
 
 
 [customDocker](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/custom/sdk-custom-image-classification-online.ipynb)
+
+
+Google Cloud.
+https://console.cloud.google.com/vertex-ai/models?project=car-warranty-01
+
+## Step 
+
+1. Create and test the pricing model with docker image locally. 
+2. Update the pricing model to the vertexAI.
+3. Create online prediction piles and workflow to render the results from Model. 
+
