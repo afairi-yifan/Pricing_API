@@ -10,6 +10,8 @@
 
 1. What framework (tensorflow or pytorch) we are currently using?
 2. api in the docker, do you mean put the endpoint to a docker container? 
+3. From the draw.io, how to put docker container inside of vertex AI?
+
 
 ## Structure
 
