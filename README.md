@@ -27,3 +27,5 @@ Reference and work on the local model in this [notebook](https://github.com/Goog
 
 
 ### Why?”; “What?”; “How?
+
+mlops: ML [pipeline ins Vertex AI](https://cloud.google.com/vertex-ai/docs/pipelines/introduction)
