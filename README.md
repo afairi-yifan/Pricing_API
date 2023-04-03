@@ -29,3 +29,7 @@ Reference and work on the local model in this [notebook](https://github.com/Goog
 ### Why?”; “What?”; “How?
 
 mlops: ML [pipeline ins Vertex AI](https://cloud.google.com/vertex-ai/docs/pipelines/introduction)
+
+
+
+[customDocker](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/custom/sdk-custom-image-classification-online.ipynb)
